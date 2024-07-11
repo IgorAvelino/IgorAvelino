@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-☠️🖥️ Working in Pentest Stuff...<br>👯 I’m looking to collaborate with the offsec community everyday!<br>🤝 I’m looking for help with Exploit Development and pentest toolkits!<br>📚 I’m currently learning Vulnerabilities in Web Applications!<br>💬 Ask me about Pentest and Hacking Things!
+☠️🖥️ Working in Pentest Stuff...<br>👯 I’m looking to collaborate with the offsec community everyday!<br>🤝 I’m looking for help with Exploit Development and pentest toolkits!<br>📚 I’m currently learning Exploit Development!<br>💬 Ask me about Pentest and Hacking Things!
 
 
 ## 🌐 Socials:
