@@ -1,10 +1,15 @@
 ### Hi there 👋
 # 💫 About Me:
-☠️🖥️ Working in Pentest Stuff...<br>👯 I’m looking to collaborate with the offsec community everyday!<br>🤝 I’m looking for help with Exploit Development and pentest toolkits!<br>📚 I’m currently learning Exploit Development!<br>💬 Ask me about Pentest and Hacking Things!
+☠️🖥️ I specialize in Penetration Testing, Vulnerability Analysis, Malware Analysis, Wireless Hacking and Android Pentest. I have experience in exploiting several vulnerabilities, such as SQL Injection, XSS, Shell Upload, LFI, RFI, XEE and SSTI.<br><br>
+📚🧑🏼‍🎓 I have a degree in Information Systems and have the Solyd Certified Pentester (SYCP) and Malware Analysis & Triage (PMAT) certifications. My main objective as a hacker is to contribute to a safer internet, always seeking to learn something new in each challenge.<br><br>
+🧠🛠️ I dedicate myself entirely to my work as a hacker and am starting my journey with the bug bounty program. Furthermore, I have knowledge in programming (Python, JS, PHP and TypeScript) and have worked with Artificial Intelligence and APIs.<br><br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor.avelino.souza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-avelino-294168234/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@avelan1?si=4KCw0RXpraWYrQLH)
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igor.avelino.souza) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=logmein&logoColor=white)](https://www.linkedin.com/in/igor-avelino/) <br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CanalHackStation)<br><br>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
